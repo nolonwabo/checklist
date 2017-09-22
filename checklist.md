@@ -13,6 +13,8 @@
 -Then you can install other dependencies.
 -npm install express --save.
 -npm install expresshandlebars --save.
+-npm install mongoose.
+-Mongoose gives you an access to the database.
 
 #Test.
 -nodemon show you when you have an error.
