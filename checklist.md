@@ -1,6 +1,7 @@
 # Waiters Availability.
 
 ## Clone app to github.
+- Go to github and clone it to this link `https://github.com/nolonwabo/waiter.git`
 - Once you clone it, you will be able to see code already written.
 
 ## Installing system.
